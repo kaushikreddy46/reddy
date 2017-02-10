@@ -1,0 +1,22 @@
+<HTML>
+<HEAD>
+<TITLE>test page for learning devops</TITLE>
+</HEAD>
+<BODY BGCOLOR="#A9A9A9">
+<CENTER><IMG SRC="index.jpg" ALIGN="BOTTOM"> </CENTER>
+<HR>
+<marquee direction="down"><img src="http://www.Fillster.com/image.gif" /></marquee>
+<marquee direction="down"><img src="https://www.google.com/search?q=DEVOPS&source=lnms&tbm=isch&sa=X&ved=0ahUKEwixrqquzYTSAhUGOCYKHbgpCikQ_AUICSgC&biw=1517&bih=654#imgdii=QA1rDmhvNVV3OM:&imgrc=Vwxq6VfJdFAffM:" /></marquee>
+<marquee bgcolor="#66CD00">eDITING oF iNDEX.html</marquee>
+<a href="https://github.com/kaushikreddy46/">click here </a>
+to go to my github
+<H1>welcome to surya </H1>
+<H2>thank you fr teaching devops</H2>
+Send me mail at <a href="mailto:kaushikreddy46@gmail.com">
+kaushikreddy46@gmail</a>.
+<P> This is a new NGINX !
+<P> <B>Tried editing this !</B>
+<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
+<HR>
+</BODY>
+</HTML>
